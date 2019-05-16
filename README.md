@@ -27,7 +27,8 @@ on command line:
     python3 manage.py runserver
   
 
-You should get a website that looks like template.pdf
+## Check the result
+You should get a website that looks like **template.pdf**
 
 Thank you.
 
